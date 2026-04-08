@@ -3,6 +3,8 @@ This is a flake config made for cybersec and penetration testing purposes. For m
 Run the following commands to clone the repository and install the packages:
 ```bash
 git clone https://github.com/KevinN2025/cybersec_flake.git
+cd cybersec_flake
 nix develop
 ```
+All dependencies should be installed shortly.
 Note: It's about 8 MB of total storage, so it'll take a couple minutes to download everything.
