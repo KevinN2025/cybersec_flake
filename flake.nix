@@ -67,8 +67,7 @@
             # --- Exploitation & Post-Exploitation ---
             metasploit    # exploitation framework
             exploitdb     # local copy of Exploit-DB (searchsploit)
-            evil-winrm-py # WinRM shell for pentesting
-            crackmapexec  # network protocol attack Swiss army knife
+            netexec # network protocol attack Swiss army knife
 
             # --- Network Traffic Analysis & MITM ---
             wireshark     # GUI packet analyzer
@@ -85,7 +84,6 @@
             # --- Wireless Security ---
             aircrack-ng   # 802.11 WEP/WPA cracking suite
             wifite2       # automated wireless attack tool
-            reaver        # WPS brute-force attack
             pixiewps      # WPS Pixie-Dust offline attack
             kismet        # wireless network detector & sniffer
 
@@ -125,7 +123,6 @@
             # --- SSL/TLS Analysis ---
             testssl       # CLI TLS/SSL cipher & vulnerability tester
             sslscan       # SSL/TLS cipher enumeration tool
-            sslyze        # fast SSL/TLS configuration analyzer
 
             # --- Active Directory & Windows Attacks ---
             bloodhound    # AD attack path visualization
