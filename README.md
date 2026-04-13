@@ -13,5 +13,3 @@ You could do it this way:
 ```bash
 nix develop github:KevinN2025/cybersec_flake
 ```
-
-All dependencies should be installed shortly.
