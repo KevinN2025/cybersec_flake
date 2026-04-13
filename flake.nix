@@ -67,7 +67,6 @@
             # --- Exploitation & Post-Exploitation ---
             metasploit    # exploitation framework
             exploitdb     # local copy of Exploit-DB (searchsploit)
-            impacket      # Windows/AD protocol attack toolkit
             evil-winrm-py # WinRM shell for pentesting
             crackmapexec  # network protocol attack Swiss army knife
 
