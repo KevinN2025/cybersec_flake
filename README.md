@@ -6,5 +6,13 @@ git clone https://github.com/KevinN2025/cybersec_flake.git
 cd cybersec_flake
 nix develop
 ```
+
+OR 
+
+You could do it this way:
+```bash
+nix develop github:KevinN2025/cybersec_flake
+```
+
 All dependencies should be installed shortly.
 Note: It's about 8 MB of total storage, so it'll take a couple minutes to download everything.
