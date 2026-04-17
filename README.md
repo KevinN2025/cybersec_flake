@@ -1,4 +1,4 @@
-This is a flake config made for cybersec and penetration testing purposes. For my fellow Nix users feel free to copy this flake.nix file for your personal workflow
+This is a nix flake made for cybersec and penetration testing purposes. For my fellow Nix users feel free to use and modify this flake.nix file for your personal workflow
 
 Run the following commands to clone the repository and install the packages:
 ```bash
